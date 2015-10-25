@@ -1,7 +1,7 @@
 # jsTranspilers
 Guide and samples for Typescript, Babel, and ES5.
 
-## Install NodeJs, build essentials and npm on Ubuntu/Debian
+#### Install NodeJs, build essentials and npm on Ubuntu/Debian
 ```
 ~$ curl --silent --location https://deb.nodesource.com/setup_4.x | sudo bash -
 ~$ sudo apt-get install --yes nodejs
@@ -26,4 +26,4 @@ typescript@1.6.2 /usr/local/lib/node_modules/typescript
 ~$ 
 ```
 ### Set Typescript transpiler plugin setting on Webstorm10
-see screenshot [link here]
+see screenshot https://goo.gl/LA5pXE
